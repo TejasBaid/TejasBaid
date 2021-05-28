@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Tejas</h1>
 <h3 align="center">Developer and Designer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p>
+
 
 <h3>Socials</h3>
 <p>
