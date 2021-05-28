@@ -1,6 +1,3 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Tejas</h1>
 <h3 align="center">Developer and Designer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p>
