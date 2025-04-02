@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Tejas</h1>
-<h3 align="center">Developer and Designer</h3>
+<h3 align="center">Student | Developer | Designer </h3>
 
 
 <h3>Socials</h3>
