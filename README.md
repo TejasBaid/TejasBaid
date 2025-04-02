@@ -4,8 +4,6 @@
 
 <h3>Socials</h3>
 <p>
-<a href="https://www.instagram.com/_tejasbaid_/">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/tejasbaid">
 <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
@@ -17,12 +15,6 @@
 </a>
 <a href="https://stackoverflow.com/users/16058640/tejas-baid">
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
-<a href="https://www.quora.com/profile/Tejas-Baid-1">
-<img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
-</a>
-<a href="https://www.reddit.com/user/TejasBaid">
-<img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
 </a>
 
 </p>
